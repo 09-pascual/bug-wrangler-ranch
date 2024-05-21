@@ -1,3 +1,7 @@
+
+https://www.loom.com/share/751235642ca44e8e9077762e0d712c6a
+here is the link to the loom video of me going through the exercise
+
 # Welcome to Bug Wrangler Ranch
 
 This first self-assessment is for you to hone several Core Skills that you need as a software developer.
